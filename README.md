@@ -13,7 +13,7 @@ A simple PyQt5 application to download Snapchat stories for a list of specified 
 
 ### Using the Executable Installer
 
-1. Download the latest version of the installer from the [Releases](https://github.com/your-username/snapchat-downloader/releases) page.
+1. Download the latest version of the installer from the [Releases](https://github.com/0xissam/Snapchat-Downloader/releases/) page.
 
 2. Run the installer and follow the on-screen instructions to install the application.
 
@@ -22,7 +22,7 @@ A simple PyQt5 application to download Snapchat stories for a list of specified 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/snapchat-downloader.git
+    git clone https://github.com/0xissam/snapchat-downloader.git
     cd snapchat-downloader
     ```
 
