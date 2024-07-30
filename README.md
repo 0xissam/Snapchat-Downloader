@@ -42,14 +42,6 @@ A simple PyQt5 application to download Snapchat stories for a list of specified 
     pip install -r requirements.txt
     ```
 
-4. If you want to create an executable, you can use PyInstaller:
-
-    ```bash
-    pip install pyinstaller
-    pyinstaller --onefile snapchat_downloader.py
-    ```
-
-    The executable will be created in the `dist` folder.
 
 ## Usage
 
